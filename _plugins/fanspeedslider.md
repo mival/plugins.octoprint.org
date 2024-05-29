@@ -6,7 +6,11 @@ description: Adds fan speed control buttons to Control tab -> General
 archive: https://github.com/mival/OctoPrint-FanSpeedSlider/archive/main.zip
 homepage: https://github.com/mival/OctoPrint-FanSpeedSlider
 source: https://github.com/mival/OctoPrint-FanSpeedSlider
-author: mival
+authors:
+- mival
+- jneilliii
+- czM1K3
+- ntoff
 license: AGPLv3
 date: 2024-05-28
 tags:
